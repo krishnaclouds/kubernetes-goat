@@ -1,4 +1,4 @@
-FROM golang:1.20.10-bullseye
+FROM golang:1.22.8-bullseye
 LABEL MAINTAINER="Madhu Akula" INFO="Kubernetes Goat"
 
 WORKDIR /
